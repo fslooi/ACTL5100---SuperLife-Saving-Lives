@@ -1,5 +1,10 @@
 # SuperLife Insurance Incentive Program
 
+<p align="center">
+  <img src="Resources/logo_team.png" height="100" />
+  <img src="Resources/logo_unsw.png" height="100" />
+</p>
+
 ## Overview
 
 In the modern age of Lumaria, health is increasingly recognized as the ultimate wealth. BrightPath Consulting, in collaboration with SuperLife Insurance, introduces a cutting-edge health incentive program designed to encourage healthy behaviours among policyholders, thereby reducing mortality rates, boosting life insurance sales, and enhancing market competitiveness.
@@ -24,6 +29,7 @@ This GitHub repository houses all project materials for the SuperLife Insurance 
 ├─ Pricing
 │  ├─ Pricing Template
 │  └─ Product Performance (Normal Conditions)
+├─ Resources
 ├─ Risk Analysis
 │  ├─ Plots and Results
 │  └─ R Coding
