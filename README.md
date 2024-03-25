@@ -16,6 +16,7 @@ This GitHub repository houses all project materials for the SuperLife Insurance 
 ```{shell}
 .
 ├─ Distribution Channel (Online) Analysis
+│  ├─ Plots and Results
 │  └─ R Coding
 ├─ Inflation and Interest Rates Modelling
 │  ├─ Plots and Results
@@ -28,13 +29,20 @@ This GitHub repository houses all project materials for the SuperLife Insurance 
 │  └─ R Coding
 ├─ Pricing
 │  ├─ Pricing Template
+│  ├─ Pricing Design
 │  └─ Product Performance (Normal Conditions)
+│     ├─ Plots and Results
+│     └─ R Coding
 ├─ Resources
 ├─ Risk Analysis
 │  ├─ Plots and Results
 │  └─ R Coding
 ├─ Sales Prediction Modelling
-└─ Sensitivity Testing Analysis
+│  ├─ Plots and Results
+│  └─ R Coding
+├─ Sensitivity Testing Analysis
+│  ├─ Plots and Results
+│  └─ R Coding
 ```
 
 ## Project Report Summary
