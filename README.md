@@ -40,9 +40,9 @@ This GitHub repository houses all project materials for the SuperLife Insurance 
 ├─ Sales Prediction Modelling
 │  ├─ Plots and Results
 │  └─ R Coding
-├─ Sensitivity Testing Analysis
-│  ├─ Plots and Results
-│  └─ R Coding
+└─ Sensitivity Testing Analysis
+   ├─ Plots and Results
+   └─ R Coding
 ```
 
 ## Project Report Summary
